@@ -66,21 +66,3 @@ SynthDef(\simpleTone, {
  ~y.stop;
  ~z.stop;
 )
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-c = [x.play, y.play, z.play];
